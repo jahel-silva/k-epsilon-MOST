@@ -8,8 +8,8 @@ UDF_K_E_FP_cstB_wake_SBLv5 - User defined function used in the wake analysis und
 ***IMPORTANT NOTES:
 - UDFs were run in Ansys Fluent 19R2.
 - The UDFs provided need to be compiled in the Ansys Fluent environment.
-- The correct quantity of user-defined memories need to be set in Ansys environment. 
-  Important to set the advanced features in Ansys Fluent:
+- The correct quantity of user-defined memory variables need to be set in Ansys environment. 
+- Is important to set the advanced features in Ansys Fluent:
   Type the following command in the console: 
   \solve\set\expert
   Enable the option "Keep temporary solver memory from being freed"
