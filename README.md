@@ -1,9 +1,9 @@
 # k-epsilon-MOST
 User-defined functions used in the dissertation entitled: Turbulence modeling the horizontally homogeneous atmospheric surface layer for wind energy applications using the k-epsilon model
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-UDF_K_E_FP_cstB_wake_CBLv5 - User defined function used in the wake analysis under stable condition. Includes the modifications needed to achieve horizontal homogeneity following Baungaard et al 2022 and the source term for the actuator disk.
+UDF_K_E_FP_cstB_wake_CBLv5 - User defined function used in the wake analysis under stable condition. Includes the modifications needed to achieve horizontal homogeneity following Baungaard et al 2022, and the source term for the actuator disk.
 
-UDF_K_E_FP_cstB_wake_SBLv5 - User defined function used in the wake analysis under unstable condition. Includes the modifications needed to achieve horizontal homogeneity following Baungaard et al 2022 and the source term for the actuator disk.
+UDF_K_E_FP_cstB_wake_SBLv5 - User defined function used in the wake analysis under unstable condition. Includes the modifications needed to achieve horizontal homogeneity following Baungaard et al 2022, and the source term for the actuator disk.
 
 ***IMPORTANT NOTES:
 - UDFs were run in Ansys Fluent 19R2.
